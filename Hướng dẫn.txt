@@ -1,0 +1,19 @@
+@author: Hoang Dac Hung
+
+
+
+Mô tả:-File dataset.csv chứa các đối tượng
+	-File chương trình dùng để phân nhóm dữ liệu: Kmeans.ipynb, Kmeans.py
+
+
+
+Các lựa chọn để chạy chương trình.
+
+I.(Khuyên dùng) File có đuôi .ipynb dùng để chạy chương trình trên cloud google mà không cần cài môi trường.
+	b1. Truy cập https://colab.research.google.com/
+	b2. Chọn tải tệp lên.
+	b3. Chọn file có đuôi .inpynb rồi import
+	b4. Trên google colab import thêm file dataset.csv để chương trình đọc
+	b5. Trên thanh công cụ của google colab chọn thời gian chạy->chạy tất cả.
+
+II. file có đuôi .py dùng để chạy trên cục bộ (dùng cho máy cục bộ đã cài python và đã cài đặt các thư viện cần thiết)
